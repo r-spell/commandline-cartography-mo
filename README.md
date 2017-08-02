@@ -1,4 +1,4 @@
-Shape files in "mo-sources" folder from [Census Bureau Data.](https://www2.census.gov/geo/tiger/GENZ2014/shp/cb_2014_29_tract_500k.zip)
+Tract shapes determined via [Census Bureau Data.](https://www2.census.gov/geo/tiger/GENZ2014/shp/cb_2014_29_tract_500k.zip)
 
 Population data from [Census Bureau Data API.](http://api.census.gov) 
 
